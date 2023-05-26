@@ -2,4 +2,9 @@ html,
 body {
   /* font-family: "Inter", "Lexend Deca", sans-serif; */
   height: 100%;
+  background-color: hsl(233, 47%, 7%);
+}
+
+section {
+  height: 100%;
 }
