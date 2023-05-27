@@ -54,3 +54,18 @@ section {
 .card .row .card-body .status-value .queries {
   margin-right: 65px;
 }
+
+.card .row .right-side {
+  background-image: url(../images/image-header-desktop.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+
+.card .row .right-side .purple {
+  background-color: hsla(277, 64%, 61%, 0.6);
+  filter: brightness(0.5) contrast(1.5) saturate(1.5);
+  width: 100%;
+  height: 100%;
+}
