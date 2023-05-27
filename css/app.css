@@ -88,17 +88,17 @@ section {
     margin-top: 200px;
   }
 
+  .card .row .card-body {
+    text-align: center;
+    width: 345px;
+  }
+
   .card .row .card-body h5 {
     margin-top: 50px;
   }
 
   .card .row .card-body p.experience {
     margin-left: 10px;
-  }
-
-  .card .row .card-body {
-    text-align: center;
-    width: 345px;
   }
 
   .card .row .status-value {
