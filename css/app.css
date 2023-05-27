@@ -31,3 +31,26 @@ section {
   width: 90%;
 }
 /* kasih width:90% untuk mengatur lebar dari paragraf nya agar sama seperti design. */
+
+.card .row .card-body .status-value {
+  margin-top: 60px;
+  font-family: "Inter", sans-serif;
+}
+
+.card .row .card-body .status-value .title {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.card .row .card-body .status-value .sub-title p.card-text {
+  color: hsla(0, 0%, 100%, 0.6);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 10px;
+}
+
+.card .row .card-body .status-value .companies,
+.card .row .card-body .status-value .templates,
+.card .row .card-body .status-value .queries {
+  margin-right: 65px;
+}
