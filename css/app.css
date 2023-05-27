@@ -24,3 +24,10 @@ section {
 .card .row .card-body h5 span {
   color: hsl(277, 64%, 61%);
 }
+
+.card .row .card-body p.experience {
+  font-size: 15px;
+  color: hsla(0, 0%, 100%, 0.75);
+  width: 90%;
+}
+/* kasih width:90% untuk mengatur lebar dari paragraf nya agar sama seperti design. */
